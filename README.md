@@ -1,4 +1,4 @@
-escrição do Projeto:
+Descrição do Projeto:
 
 Este projeto é uma aplicação desenvolvida no curso de Java do SENAI, que implementa a fórmula de Bhaskara para resolver equações quadráticas, utilizando uma abordagem orientada a objetos e uma interface gráfica intuitiva.
 O sistema é projetado para permitir que os usuários insiram os coeficientes de uma equação do segundo grau e calculem as raízes de forma rápida e precisa.
